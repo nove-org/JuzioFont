@@ -2,14 +2,19 @@
 ## How to download
 Click on releases tab and download latest files. Then import those files into your text editor. That's it!
 ## Preview
+<br>
 • Regular
+<br>
 ![r](https://media.discordapp.net/attachments/824247674571194418/947531260534853632/normal.png)
 
 • Underlined 
+<br>
 ![u](https://media.discordapp.net/attachments/824247674571194418/947531260719419432/underline.png) 
 
 • Italic
+<br>
 ![i](https://media.discordapp.net/attachments/824247674571194418/947531260878782464/2.png)
 
 • Bold
+<br>
 ![b](https://media.discordapp.net/attachments/824247674571194418/947531261101092874/bold.png)
