@@ -2,4 +2,14 @@
 ## How to download
 Click on releases tab and download latest files. Then import those files into your text editor. That's it!
 ## Preview
-![Screen_Recording_2022-02-27_at_16 46 52](https://user-images.githubusercontent.com/49320100/155890287-ecd290f9-100b-4e4b-85bf-23d24d04bc7d.gif)
+• Regular
+![r](https://media.discordapp.net/attachments/824247674571194418/947531260534853632/normal.png)
+
+• Underlined 
+![u](https://media.discordapp.net/attachments/824247674571194418/947531260719419432/underline.png) 
+
+• Italic
+![i](https://media.discordapp.net/attachments/824247674571194418/947531260878782464/2.png)
+
+• Bold
+![b](https://media.discordapp.net/attachments/824247674571194418/947531261101092874/bold.png)
