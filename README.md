@@ -7,7 +7,6 @@ Click on releases tab and download latest files. Then import those files into yo
 • Regular
 
 <br>
-<br>
 
 ![r](https://media.discordapp.net/attachments/824247674571194418/947531260534853632/normal.png)
 
