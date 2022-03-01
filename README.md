@@ -7,3 +7,4 @@
 ![preview](https://user-images.githubusercontent.com/49320100/155894611-21de7b21-709d-4d40-95df-2ce0be2d0c6d.png)
 ##
 #### This work is licensed under [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) license
+#### project is made by cloud3 (dwabułki) and wnm210
